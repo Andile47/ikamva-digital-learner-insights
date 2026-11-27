@@ -1,4 +1,3 @@
-# ikamva-digital-learner-insights
 # Ikamva Digital – Learner Insights & Analytics Dashboard
 
 ## Project Overview
